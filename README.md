@@ -2,9 +2,9 @@
 
 ## Data Analyst
 ### Education
-KURUKSHETRA UNIVERSITY, HARYANA - B. Ed. 		   	                          MAY 2016 - JUNE 2018
-HINDU COLLEGE, DELHI UNIVERSITY, DELHI - M.A. Maths 		                  JULY 2011 - JUNE 2014
-INDRAPRASTHA COLLEGE FOR WOMEN, DELHI UNIVERSITY - B.A. Maths	            JULY 2008 - JUNE 2011 
+- KURUKSHETRA UNIVERSITY, HARYANA - B. Ed. 		   	                          MAY 2016 - JUNE 2018
+- HINDU COLLEGE, DELHI UNIVERSITY, DELHI - M.A. Maths 		                  JULY 2011 - JUNE 2014
+- INDRAPRASTHA COLLEGE FOR WOMEN, DELHI UNIVERSITY - B.A. Maths	            JULY 2008 - JUNE 2011 
 
 ### Work Experience
 #### OXFORD LEARNING, RICHMOND HILL WEST - High School Teacher	     FEB 2024 - PRESENT
