@@ -2,17 +2,17 @@
 
 ## Data Analyst
 ### Education
-- KURUKSHETRA UNIVERSITY, HARYANA - B. Ed. ####MAY 2016 - JUNE 2018
+- KURUKSHETRA UNIVERSITY, HARYANA - B. Ed.                                  MAY 2016 - JUNE 2018
 - HINDU COLLEGE, DELHI UNIVERSITY, DELHI - M.A. Maths 		                  JULY 2011 - JUNE 2014
 - INDRAPRASTHA COLLEGE FOR WOMEN, DELHI UNIVERSITY - B.A. Maths	            JULY 2008 - JUNE 2011 
 
 ### Work Experience
 #### OXFORD LEARNING, RICHMOND HILL WEST - High School Teacher	     FEB 2024 - PRESENT
-- Tutor students in various subjects, including Coding, Mathematics, Physics, Chemistry, English, and French.
+- Tutor students in various subjects including Coding, Mathematics, Physics, Chemistry, English and French.
 - Implement personalized learning plans to address individual student needs and learning styles.
 
 #### FAB FLOORINGS INDIA, DELHI - Administrative Executive 			   JAN 2020 - SEP 2023 
-- Coordinated day-to-day administrative processes, including office management, correspondence, and communication channels. 
+- Coordinated day-to-day administrative processes including office management, correspondence and communication channels. 
 - Conducted regular assessments of workflow processes, identifying areas for improvement and implementing efficiency enhancements.
 - Coordinate client updates and take regular feedback to ensure the finished product meets client requirements.
 - Provided administrative support to executive team members, handling scheduling and documentation. 
